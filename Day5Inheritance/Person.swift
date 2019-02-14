@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  Person.swift
 //  Day5Inheritance
 //
 //  Created by MacStudent on 2019-02-14.
@@ -8,10 +8,7 @@
 
 import Foundation
 
-print("Hello, World!")
-<
-
-
-
-//print("Harsh")
-
+class Person
+{
+    
+}
