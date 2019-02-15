@@ -10,7 +10,6 @@
 		9B0EA8F42216304A0038BC80 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EA8F32216304A0038BC80 /* main.swift */; };
 		9B0EA8FD22163E780038BC80 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EA8FC22163E780038BC80 /* Person.swift */; };
 		9B0EA8FF22163E7D0038BC80 /* Faculty.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EA8FE22163E7D0038BC80 /* Faculty.swift */; };
-		9B0EA90122163E820038BC80 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B0EA90022163E820038BC80 /* File.swift */; };
 		9BF6A9CE221637D200359CE1 /* Student.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9BF6A9CD221637D200359CE1 /* Student.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +30,6 @@
 		9B0EA8F32216304A0038BC80 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		9B0EA8FC22163E780038BC80 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
 		9B0EA8FE22163E7D0038BC80 /* Faculty.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Faculty.swift; sourceTree = "<group>"; };
-		9B0EA90022163E820038BC80 /* File.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 		9BF6A9CD221637D200359CE1 /* Student.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Student.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -69,7 +67,6 @@
 				9B0EA8FE22163E7D0038BC80 /* Faculty.swift */,
 				9BF6A9CD221637D200359CE1 /* Student.swift */,
 				9B0EA8FC22163E780038BC80 /* Person.swift */,
-				9B0EA90022163E820038BC80 /* File.swift */,
 			);
 			path = Day5Inheritance;
 			sourceTree = "<group>";
@@ -131,7 +128,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B0EA90122163E820038BC80 /* File.swift in Sources */,
 				9B0EA8FF22163E7D0038BC80 /* Faculty.swift in Sources */,
 				9B0EA8FD22163E780038BC80 /* Person.swift in Sources */,
 				9B0EA8F42216304A0038BC80 /* main.swift in Sources */,
