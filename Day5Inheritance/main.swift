@@ -9,9 +9,12 @@
 import Foundation
 
 print("Hello, World!")
-<
 
 
+var p1 = Person()
+
+p1.setData()
+p1.display()
 
 //print("Harsh")
 
