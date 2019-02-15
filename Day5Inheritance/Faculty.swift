@@ -9,7 +9,7 @@
 import Foundation
 
 
-class Faculty
+class Faculty:Person
 {
     
 }

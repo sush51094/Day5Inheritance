@@ -7,7 +7,26 @@
 //
 
 import Foundation
-class Student
+class Student:Person
 {
+     var result : String
     
+    override init()
+    {
+        self.result = "fail"
+        
+    }
+    
+    init(result:String)
+    {
+        self.result = result
+    }
+    
+    override func display() {
+        
+        print("student id: \(self.result)")
+        print("student firstname : \(self.fname)")
+        print("student lastname : \(self.lname)")
+        print("student lastname : \(self.pid)")    }
 }
+
